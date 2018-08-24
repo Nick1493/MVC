@@ -10,7 +10,7 @@ public class DBConnection {
 		String url = "jdbc:oracle:thin:@localhost:1521:xe"; // MySQL URL and followed by the database name
 		String username = "nishant"; // MySQL username
 		String password = "admin"; // MySQL password
-		System.out.println("this is sample");
+		System.out.println("this is hgggsample");
 		try {
 			try {
 				Class.forName("oracle.jdbc.driver.OracleDriver"); // loading mysql driver
